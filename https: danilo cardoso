@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página HTML</title>
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao meu primeiro site!</h1>
+    </header>
+    <main>
+        <p>Esta página foi criada como parte de um exercício de aprendizado de HTML.</p>
+        <section>
+            <h2>Sobre o Criador</h2>
+            <p>Nome: Danilo Cardoso</p>
+            <p>Estudante do programa Talento Tech.</p>
+            <p>Meu objetivo é desenvolver habilidades em programação e criar soluções inovadoras.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Danilo Cardoso. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
